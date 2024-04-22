@@ -1,0 +1,2 @@
+Using numbers as an input gives ramdom (as in Screenshot(4).png) and out of the context results which do not go along with overall website theme [In my case "Music production"].
+In some cases the image disappears. [Screenshot(2).png]  
