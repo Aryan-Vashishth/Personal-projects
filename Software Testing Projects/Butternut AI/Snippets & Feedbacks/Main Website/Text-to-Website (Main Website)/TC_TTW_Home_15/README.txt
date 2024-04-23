@@ -1,1 +1,0 @@
-Although the genrated website is as per the "Name of your business" field input but not "Error message" was displayed even after using random text as input in "Keywords" field.  

@@ -1,1 +1,0 @@
-The image generation feature does not allow customization such as crop, resize, filters etc.

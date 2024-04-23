@@ -1,1 +1,0 @@
-A random website is genarated even if we pass random numbers as input in both fields [For example: "3425234"]

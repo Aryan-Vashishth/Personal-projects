@@ -1,1 +1,0 @@
-Using invalid text as an input makes the existing image blur and do not throw any error message.

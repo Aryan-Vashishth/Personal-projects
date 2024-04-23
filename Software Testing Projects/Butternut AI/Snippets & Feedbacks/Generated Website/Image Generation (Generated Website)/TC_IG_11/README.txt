@@ -1,1 +1,0 @@
-Using special characters as an input gives ramdom and out of the context results which do not go along with overall website theme [In my case "Music production"].
