@@ -1,0 +1,2 @@
+Using special characters as an input gives very inconsistence and unstable results.
+In my testing, the cover picture for the comment disappeared and genrated a comment with random special characters. [Screenshot(2).png] 

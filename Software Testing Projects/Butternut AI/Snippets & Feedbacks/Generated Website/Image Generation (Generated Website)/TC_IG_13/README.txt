@@ -1,0 +1,1 @@
+Using single alphabet as an input gives a ramdom and out of the context results which do not go along with overall website theme [In my case "Music production"].

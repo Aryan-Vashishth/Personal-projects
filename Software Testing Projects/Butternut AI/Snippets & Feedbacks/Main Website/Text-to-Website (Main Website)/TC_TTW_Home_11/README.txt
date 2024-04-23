@@ -1,0 +1,1 @@
+A random website is genarated even if we pass random special characters as input in both fields [For example: "$%@@@^*)"]
