@@ -170,111 +170,111 @@ const musicData = [
     "musicPath": "./assets/music/music18.mp3"
   },
   {
-    "backgroundImage": "./assets/images/poster19.jpg",
-    "posterUrl": "./assets/images/poster19.jpg",
-    "title": "Song Title 1",
-    "album": "Album Name 1",
+    "backgroundImage": "./assets/images/killYou.png",
+    "posterUrl": "./assets/images/killYou.png",
+    "title": "Kill You",
+    "album": "The Marshall Mathers LP",
     "year": 2000,
-    "artist": "Artist Name 1",
+    "artist": "Eminem",
     "musicPath": "./assets/music/music19.mp3"
   },
   {
-    "backgroundImage": "./assets/images/poster20.jpg",
-    "posterUrl": "./assets/images/poster20.jpg",
-    "title": "Song Title 2",
-    "album": "Album Name 2",
-    "year": 2001,
-    "artist": "Artist Name 2",
+    "backgroundImage": "./assets/images/thesearch.jpg",
+    "posterUrl": "./assets/images/thesearch.jpg",
+    "title": "Leave Me Alone",
+    "album": "The Search",
+    "year": 2019,
+    "artist": "NF",
     "musicPath": "./assets/music/music20.mp3"
   },
   {
-    "backgroundImage": "./assets/images/poster21.jpg",
-    "posterUrl": "./assets/images/poster22.jpg",
-    "title": "Song Title 3",
-    "album": "Album Name 3",
-    "year": 2002,
-    "artist": "Artist Name 3",
+    "backgroundImage": "./assets/images/lilH.jpg",
+    "posterUrl": "./assets/images/lilH.jpg",
+    "title": "Lil’ Homies",
+    "album": "Until the End of Time",
+    "year": 1996,
+    "artist": "2Pac",
     "musicPath": "./assets/music/music23.mp3"
   },
   {
-    "backgroundImage": "./assets/images/poster24.jpg",
-    "posterUrl": "./assets/images/poster24.jpg",
-    "title": "Song Title 4",
-    "album": "Album Name 4",
-    "year": 2003,
-    "artist": "Artist Name 4",
+    "backgroundImage": "./assets/images/poster9.jpg",
+    "posterUrl": "./assets/images/poster9.jpg",
+    "title": "My Life",
+    "album": "Perception",
+    "year": 2017,
+    "artist": "NF",
     "musicPath": "./assets/music/music24.mp3"
   },
   {
-    "backgroundImage": "./assets/images/poster25.jpg",
-    "posterUrl": "./assets/images/poster25.jpg",
-    "title": "Song Title 5",
-    "album": "Album Name 5",
-    "year": 2004,
-    "artist": "Artist Name 5",
+    "backgroundImage": "./assets/images/NUMBjpg",
+    "posterUrl": "./assets/images/NUMB.jpg",
+    "title": "NUMB",
+    "album": "?",
+    "year": 2018,
+    "artist": "XXXTentacion",
     "musicPath": "./assets/music/music25.mp3"
   },
   {
-    "backgroundImage": "./assets/images/poster26.jpg",
-    "posterUrl": "./assets/images/poster26.jpg",
-    "title": "Song Title 6",
-    "album": "Album Name 6",
-    "year": 2005,
-    "artist": "Artist Name 6",
+    "backgroundImage": "./assets/images/poster3.jpg",
+    "posterUrl": "./assets/images/poster3.jpg",
+    "title": "Shorty Wanna Be A Thug",
+    "album": "All eyes on me",
+    "year": 1996,
+    "artist": "2Pac",
     "musicPath": "./assets/music/music26.mp3"
   },
   {
-    "backgroundImage": "./assets/images/poster27.jpg",
-    "posterUrl": "./assets/images/poster27.jpg",
-    "title": "Song Title 7",
-    "album": "Album Name 7",
-    "year": 2006,
-    "artist": "Artist Name 7",
+    "backgroundImage": "./assets/images/thesearch.jpg",
+    "posterUrl": "./assets/images/thesearch.jpg",
+    "title": "The Search",
+    "album": "The Search",
+    "year": 2019,
+    "artist": "NF",
     "musicPath": "./assets/music/music27.mp3"
   },
   {
-    "backgroundImage": "./assets/images/poster28.jpg",
-    "posterUrl": "./assets/images/poster28.jpg",
-    "title": "Song Title 8",
-    "album": "Album Name 8",
-    "year": 2007,
-    "artist": "Artist Name 8",
+    "backgroundImage": "./assets/images/posterTS.jpg",
+    "posterUrl": "./assets/images/posterTS.jpg",
+    "title": "Therapy Session",
+    "album": "Therapy Session",
+    "year": 2016,
+    "artist": "NF",
     "musicPath": "./assets/music/music28.mp3"
   },
   {
-    "backgroundImage": "./assets/images/poster29.jpg",
-    "posterUrl": "./assets/images/poster29.jpg",
-    "title": "Song Title 9",
-    "album": "Album Name 9",
-    "year": 2008,
-    "artist": "Artist Name 9",
+    "backgroundImage": "./assets/images/thesearch.jpg",
+    "posterUrl": "./assets/images/thesearch.jpg",
+    "title": "Time",
+    "album": "The Search",
+    "year": 2019,
+    "artist": "NF",
     "musicPath": "./assets/music/music29.mp3"
   },
   {
-    "backgroundImage": "./assets/images/poster30.jpg",
-    "posterUrl": "./assets/images/poster30.jpg",
-    "title": "Song Title 10",
-    "album": "Album Name 10",
-    "year": 2009,
-    "artist": "Artist Name 10",
+    "backgroundImage": "./assets/images/thesearch.jpg",
+    "posterUrl": "./assets/images/thesearch.jpg",
+    "title": "When I Grow Up",
+    "album": "The Search",
+    "year": 2019,
+    "artist": "NF",
     "musicPath": "./assets/music/music30.mp3"
   },
   {
-    "backgroundImage": "./assets/images/poster31.jpg",
-    "posterUrl": "./assets/images/poster31.jpg",
-    "title": "Song Title 11",
-    "album": "Album Name 11",
-    "year": 2010,
-    "artist": "Artist Name 11",
+    "backgroundImage": "./assets/images/thesearch.jpg",
+    "posterUrl": "./assets/images/thesearch.jpg",
+    "title": "WHY",
+    "album": "The Search",
+    "year": 2019,
+    "artist": "NF",
     "musicPath": "./assets/music/music31.mp3"
   },
   {
-    "backgroundImage": "./assets/images/poster32.jpg",
-    "posterUrl": "./assets/images/poster32.jpg",
-    "title": "Song Title 12",
-    "album": "Album Name 12",
-    "year": 2011,
-    "artist": "Artist Name 12",
+    "backgroundImage": "./assets/images/nf-perception.jpg",
+    "posterUrl": "./assets/images/nf-perception.jpg",
+    "title": "You're Special",
+    "album": "Perception",
+    "year": 2017,
+    "artist": "NF",
     "musicPath": "./assets/music/music32.mp3"
   },
   
@@ -292,6 +292,16 @@ const addEventOnElements = function (elements, eventType, callback) {
   }
 }
 
+// Function to redirect to Wikipedia page when clicking on artist name
+const redirectToWiki = function(artist) {
+  const wikiUrl = `https://en.wikipedia.org/wiki/${encodeURIComponent(artist)}`;
+  window.open(wikiUrl, "_blank");
+};
+
+// Add click event listener to artist names
+document.querySelectorAll("[data-artist]").forEach(artist => {
+  artist.addEventListener("click", () => redirectToWiki(artist.textContent.trim()));
+});
 
 
 /**
